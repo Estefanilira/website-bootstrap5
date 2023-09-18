@@ -5,8 +5,8 @@
 
 
 ## Links
-* Repositório: https://github.com/Estefanilira/projeto-agenciaweb
-* Deploy: https://estefanilira.github.io/projeto-agenciaweb/
+* Repositório: https://github.com/Estefanilira/website-bootstrap5
+* Deploy: https://estefanilira.github.io/website-bootstrap5/
 
 "O Bootstrap é um framework JavaScript projetado para simplificar a construção de interfaces web responsivas e modulares. 
 Ele atinge essa meta fornecendo uma ampla gama de componentes de classes reutilizáveis, que podemos utilizar para construir nossas interfaces de forma eficaz.

@@ -28,7 +28,6 @@ Os usuários devem ser capazes de:
 
 * Interagir com o layout ideal para o aplicativo, independente do tamanho da tela do dispositivo;
 * Interagir com os estados de foco para todos os elementos interativos da página;
-* Animações em efeito paralax/circle no JS;
 * Responsividade criada para tablets e celular.
 
 ## Principais sessões

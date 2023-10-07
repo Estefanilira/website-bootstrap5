@@ -1,9 +1,6 @@
 # PROJETO WEBSITE IMOBILIARIA, UTILIZANDO O FRAMEWORK BOOTSTRAP 5
 
 
-![website-bootstrap](https://github.com/Estefanilira/projeto-agenciaweb/assets/126111557/a2ef54a3-addf-42d9-861d-ffc392b74a1d)
-
-
 
 "O Bootstrap é um framework JavaScript projetado para simplificar a construção de interfaces web responsivas e modulares. 
 Ele atinge essa meta fornecendo uma ampla gama de componentes de classes reutilizáveis, que podemos utilizar para construir nossas interfaces de forma eficaz.
